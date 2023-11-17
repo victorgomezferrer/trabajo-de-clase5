@@ -1,0 +1,30 @@
+.parrafo{
+    background-color: yellow;
+}
+.titulos2{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+}
+a{
+   color: blue; 
+}
+a:visited{
+    color: purple;
+}
+a:hover{
+    color: green;
+}
+.titulos3{
+    background-color: grey;
+}
+h1 + p {
+    font-size: 20px;
+}
+
+#titulo{
+    border: solid 2px;
+}

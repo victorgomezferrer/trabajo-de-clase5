@@ -1,0 +1,40 @@
+.contenido {
+background-color: red;
+width: 100%;
+
+
+}
+.recomendaciones {
+ background-color: red;
+ width: 100%;
+}
+body {
+  font-size: 11px;
+}
+@media ( min-width: 600px ) and (max-width: 800px){ 
+  .contenido {
+    background-color: green;
+    width: 60%;
+  }
+  .recomendaciones {
+    width: 30%;
+    background-color: blue;
+  }
+  body{
+    font-size: 12px;
+  }
+}
+@media (min-width: 800px )  {
+.contenido {
+  width: 80%;
+  background-color: violet;
+}
+.recomendaciones {
+  width: 15%;
+  background-color: yellow;
+}
+body{
+  font-size: 14px;
+}
+}
+

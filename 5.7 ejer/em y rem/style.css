@@ -1,0 +1,38 @@
+#contenedor1 {
+    font-size: 16px;
+
+}
+#parrafo1 {
+    font-size: 1.5em;
+}
+#parrafo2 {
+    font-size: 1.2em;
+}
+#parrafo3 {
+    font-size: 0.8em;
+}
+
+#parrafo4 {
+    width: 20rem;
+    border: solid;
+}
+#parrafo5 {
+    width: 15rem;
+    border: solid;
+}
+#parrafo6 {
+    width: 10rem;
+    border: solid;
+}
+#parrafo7 {
+margin: 0.5em;
+border: solid;
+}
+#parrafo8 {
+    margin: 1em;
+    border: solid;
+}
+#parrafo9 {
+    margin: 1.5em;
+    border: solid;
+}

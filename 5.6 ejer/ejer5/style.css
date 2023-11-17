@@ -1,0 +1,15 @@
+#arriba {
+ background-color: tomato;
+
+}
+#abajo {
+    background-color: green;
+}
+#contenedor1 section{
+  display: flex;
+    
+}
+#conendor2 section {
+    display: flex;
+
+}
